@@ -1,0 +1,8 @@
+{
+  "name": "electron-tut",
+  "version": "0.1.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "/Users/vinhnguyen/programs/Electron.app/Contents/MacOS/Electron ."
+    }
+}
